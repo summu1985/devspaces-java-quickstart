@@ -1,4 +1,5 @@
 To compile run: mvn clean compile install
+
 To run locally, run : java -jar target/java-springboot-starter-0.0.1-SNAPSHOT.jar
 
 Open a browser and point to http://localhost:8080/hello
