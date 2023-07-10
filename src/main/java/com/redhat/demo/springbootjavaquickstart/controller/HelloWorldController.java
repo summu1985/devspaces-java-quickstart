@@ -1,4 +1,4 @@
-package com.redhat.demo.quaydemo.controller;
+package com.redhat.demo.springbootjavaquickstart.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
